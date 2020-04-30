@@ -16,7 +16,7 @@
     "font-awesome": "^4.7.0",
     "git": "^0.1.5",
     "heroku": "^7.24.3",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "lite-server": "^2.4.0",
     "popper.js": "^1.14.7"
   },
